@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arun Pratap Singh Bhadouriya</h1>
 <h3 align="center">A passionate B.Tech student and web developer from Gwalior,Madhya Pradesh</h3>
 
-- 🔭 I’m currently working on [ujjain-simhasta](https://ujjain-simhasta.vercel.app/)
-
 - 🌱 I’m currently learning **python, power BI, Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arunbhadouria](https://github.com/Arunbhadouria)
 
-- 💬 Ask me about **react, sql, analytics**
+- 💬 Ask me about **MERN, SQL based Analytics(please don't ask too much i get anxious 😥😥)**
 
 - 📫 How to reach me **arunbhadouriya06@gmail.com**
 
