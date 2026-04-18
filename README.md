@@ -82,12 +82,13 @@
 
 ---
 
-### ⛓️ KuroKoin – Blockchain Simulation
+### 💳 LoanVerify – Loan Verification Backend System
 
-[GitHub](https://github.com/Arunbhadouria/KuroKoin)
+[Live Demo](https://loan-verify.vercel.app/) • [GitHub](https://github.com/Arunbhadouria/loanVerify)
 
-* Backend logic for blockchain transactions & validation
-* Implemented hashing, block linking & persistence
+* Backend-focused system for loan verification and validation workflows
+* Designed APIs for processing user and financial data
+* Implemented structured validation logic and request handling
 
 ---
 
