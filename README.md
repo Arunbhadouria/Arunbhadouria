@@ -1,69 +1,125 @@
-<h1 align="center">Hi 👋, I'm Arun Pratap Singh Bhadouriya</h1>
-<h3 align="center">Aspiring Backend Developer | B.Tech IT Student</h3>
+# Hi 👋, I'm Arun Pratap Singh Bhadouriya
+
+### Backend Developer (Node.js) | Building Scalable APIs & Systems
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arun-p-s-bhadouriya-1a018236b">
+    <img src="https://img.shields.io/badge/LinkedIn-Arun-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:arunbhadouriya06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 B.Tech Information Technology student from Gwalior, India  
-- 💻 Aspiring Backend Developer focused on building scalable applications  
-- ⚙️ Experienced in REST API development, backend systems, and database design  
-- 🌱 Currently learning: Python, Backend Architecture, Blockchain  
+
+* 🎓 B.Tech IT student (CGPA: 8.5)
+* 💻 Backend-focused developer skilled in Node.js & Express
+* ⚙️ Strong in REST APIs, database design & backend systems
+* 🏆 Hackathon winner (🥇 HackSetu, 🥈 Technocrats Innovation Challenge)
+* 🌱 Currently exploring system design & scalable architectures
+
+---
+
+## 🧠 What I Do
+
+* ⚡ Build **RESTful APIs**
+* 🗄️ Design **database schemas & data models**
+* 🔄 Handle **backend logic & request flows**
+* 🚀 Deploy and manage applications
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-Python, JavaScript, SQL  
+### 💻 Languages
 
-**Backend:**  
-Node.js, Express.js  
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
+![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge\&logo=mysql)
 
-**Databases:**  
-MongoDB, MySQL, Firebase  
+### ⚙️ Backend
 
-**Tools & Platforms:**  
-Git, GitHub, Postman, Vercel, Render  
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
+
+### 🗄️ Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge\&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
+![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge\&logo=firebase)
+
+### 🧰 Tools
+
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge\&logo=postman)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge\&logo=vercel)
+![Render](https://img.shields.io/badge/Render-purple?style=for-the-badge)
 
 ---
 
-## 📌 Featured Projects
+## 🔥 Featured Projects
 
-### 🔗 Shorty – URL Shortener & Analytics Platform
-- Built a MERN-based URL shortener with authentication and custom aliases  
-- Designed REST APIs for link generation, redirection, and analytics tracking  
-- Implemented click analytics with geographic and traffic insights  
-👉 https://github.com/Arunbhadouria  
+### 🔗 Shorty – URL Shortener & Analytics Backend
+
+[Live Demo](https://shorty-frontend-1b3x5lqi3-arunbhadourias-projects.vercel.app/) • [GitHub](https://github.com/Arunbhadouria)
+
+* Backend system for URL shortening, redirection & analytics
+* Designed REST APIs and handled dynamic routing
+* Built tracking system for clicks and usage insights
+
+---
+
+### 🗺️ DivyaYatra – Travel Planner
+
+[Live Demo](https://divya-yatra-tit.vercel.app/auth) • [GitHub](https://github.com/Arunbhadouria/DivyaYatra-Devsprint)
+
+* Backend for itinerary generation & API integration
+* Real-time data with maps and external APIs
+* 🥇 Hackathon Winner
 
 ---
 
 ### ⛓️ KuroKoin – Blockchain Simulation
-- Developed a Python-based blockchain simulation system  
-- Implemented hashing, block linking, and transaction validation  
-- Designed backend logic for persistent data storage  
-👉 https://github.com/Arunbhadouria/KuroKoin  
 
----
+[GitHub](https://github.com/Arunbhadouria/KuroKoin)
 
-### 🗺️ DivyaYatra – Travel Planner (Hackathon Winner 🏆)
-- Built a full-stack travel assistant using Next.js and APIs  
-- Designed backend for itinerary generation and route optimization  
-- 🥇 Won 1st place at HackSetu Hackathon  
-👉 https://github.com/Arunbhadouria/DivyaYatra-Devsprint  
+* Backend logic for blockchain transactions & validation
+* Implemented hashing, block linking & persistence
 
 ---
 
 ## 🏆 Achievements
-- 🥇 1st Place – HackSetu Hackathon (Amity University, Gwalior)
+
+* 🥇 HackSetu Hackathon Winner
+* 🥈 Technocrats Innovation Challenge
+* 👨‍💻 Technical Team Member – IETE
 
 ---
 
-## 📫 Connect with Me
-- 📧 Email: arunbhadouriya06@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/arun-p-s-bhadouriya-1a018236b  
-- 💻 GitHub: https://github.com/Arunbhadouria  
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arunbhadouria&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arunbhadouria&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## ⚡ Fun Fact
-I make terrible jokes... but somehow they still work 😄
+## 📌 Looking For
+
+* Backend Developer Internship (Node.js / Express)
+* Opportunities to build scalable APIs and backend systems
+* Roles involving real-world problem solving and system design
+
+---
+
+## 📫 Contact
+
+* 📧 [arunbhadouriya06@gmail.com](mailto:arunbhadouriya06@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/arun-p-s-bhadouriya-1a018236b
