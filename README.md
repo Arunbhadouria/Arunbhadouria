@@ -1,6 +1,6 @@
 # Hi 👋, I'm Arun Pratap Singh Bhadouriya
 
-### Backend Developer (Node.js) | Building Scalable APIs & Systems
+### FullStack Developer (MERN)| Backend Oriented | Building Scalable APIs & Systems
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arun-p-s-bhadouriya-1a018236b">
