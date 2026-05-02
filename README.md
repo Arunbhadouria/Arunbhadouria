@@ -40,6 +40,11 @@
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge\&logo=mysql)
 
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
 ### ⚙️ Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
@@ -62,16 +67,6 @@
 
 ## 🔥 Featured Projects
 
-### 🔗 Shorty – URL Shortener & Analytics Backend
-
-[Live Demo](https://shorty-frontend-1b3x5lqi3-arunbhadourias-projects.vercel.app/) • [GitHub](https://github.com/Arunbhadouria)
-
-* Backend system for URL shortening, redirection & analytics
-* Designed REST APIs and handled dynamic routing
-* Built tracking system for clicks and usage insights
-
----
-
 ### 🗺️ DivyaYatra – Travel Planner
 
 [Live Demo](https://divya-yatra-tit.vercel.app/auth) • [GitHub](https://github.com/Arunbhadouria/DivyaYatra-Devsprint)
@@ -82,13 +77,23 @@
 
 ---
 
-### 💳 LoanVerify – Loan Verification Backend System
+### 🔗 Naughty Company – OSINT-Powered Scam Intelligence Platform
 
-[Live Demo](https://loan-verify.vercel.app/) • [GitHub](https://github.com/Arunbhadouria/loanVerify)
+[Live Demo](https://naughty-company.vercel.app/) • [GitHub](https://github.com/Arunbhadouria/naughty_company)
 
-* Backend-focused system for loan verification and validation workflows
-* Designed APIs for processing user and financial data
-* Implemented structured validation logic and request handling
+* Backend-driven scam detection engine powered by OSINT and machine learning
+* Analyzes web intelligence, filters unreliable signals, and generates weighted company risk scores
+* Supports secure authentication, investigation storage, and distributed deployment architecture.
+
+---
+
+### 🔗 Shorty – URL Shortener & Analytics Backend
+
+[Live Demo](https://shorty-frontend-1b3x5lqi3-arunbhadourias-projects.vercel.app/) • [GitHub](https://github.com/Arunbhadouria/Shorty-backend)
+
+* Backend system for URL shortening, redirection & analytics
+* Designed REST APIs and handled dynamic routing
+* Built tracking system for clicks and usage insights
 
 ---
 
